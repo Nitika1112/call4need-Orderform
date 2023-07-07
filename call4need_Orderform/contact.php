@@ -48,7 +48,7 @@ if (isset($_POST['submit'])) {
                     <div class='col-lg-4'>
                         <div class='box_order_form'>
                             <div class='head text-center' style='padding: 15px'>
-                                <h3>You are Registered Successfully</h3>
+                                <h3>Your order is placed successfully</h3>
                             </div>
                             <!-- /head -->
                             <div class='main'>
@@ -57,8 +57,8 @@ if (isset($_POST['submit'])) {
                                         <img src='img/Confirmed.gif' alt='Success Image' width='120' height='120'>
                                     </div>
                                     <h3>Order Confirmed!</h3>
-                                    <p>Thank you for submitting your details. <br><br>
-                                    Our team will get in touch with you soon.
+                                    <p>Thank you for placing your order with us.<br><br>
+                                    Our team will send your order soon.
                                     For more details, call us on our toll-free number:<br> 
                                     <span style='font-size: 16px; color: crimson;'>+91 7352233444</span></p>
                                 </div>
@@ -73,9 +73,6 @@ if (isset($_POST['submit'])) {
                 <div class='row justify-content-center'>                
                     <div class='col-lg-4'>
                         <div class='box_order_form'>
-                            <div class='head text-center' style='padding: 15px'>
-                                <h3>You are Registered Successfully</h3>
-                            </div>
                             <!-- /head -->
                             <div class='main'>
                                 <div class='form-unsuccessful'>

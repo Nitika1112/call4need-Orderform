@@ -45,14 +45,15 @@
     <!-- /header -->
 	
 	<main>
-		<div class="hero_single inner_pages background-image" data-background="url(img/home_section_2.jpg)">
-			<div class="opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.6)">
+		<div class="hero_single inner_pages background-image" data-background="url(img/home_section_2.jpg)"
+        style="height: 400px; background-position: bottom center;">
+			<div class="opacity-mask" data-opacity-mask="rgb(0 0 0 / 68%)">
 				<div class="container">
 					<div class="row justify-content-center">
 						<div class="col-lg-10">
-							<h1>Attract New Customers</h1>
-							<p>More bookings from diners around the corner</p>
-							<a href="#submit" class="btn_1 gradient btn_scroll">Submit Now</a>
+							<h1>Your Need Our Deed</h1>
+							<p>Order from your favourite place around the corner</p>
+							<a href="#submit" class="btn_1 gradient btn_scroll">Order Now</a>
 						</div>
 					</div>
 					<!-- /row -->
@@ -60,69 +61,14 @@
 			</div>
 			<div class="wave hero"></div>
 		</div>
-		<!-- /hero_single -->
-        <div class="bg_gray">
-            <div class="container margin_30_20 bg_gray">			
-            <div class="main_title center">
-                <span><em></em></span>
-                <h2>Why Submit to FooYes</h2>
-                <p>Cum doctus civibus efficiantur in imperdiet deterruisset.</p>
-            </div>
-
-            <div class="row justify-content-center align-items-center add_bottom_15">
-                    <div class="col-lg-6">
-                        <div class="box_about">
-                            <h3>Boost your Bookings</h3>
-                            <p class="lead">Est falli invenire interpretaris id, magna libris sensibus mel id.</p>
-                            <p>Per eu nostrud feugiat. Et quo molestiae persecuti neglegentur. At zril definitionem mei, vel ei choro volumus. An tota nulla soluta has, ei nec essent audiam, te nisl dignissim vel. Ex velit audire perfecto pro, ei mei doming vivendo legendos. Cu sit magna zril, an odio delectus constituto vis. Vis ludus omnesque ne, est veri quaeque ad.</p>
-                            <img src="img/arrow_about.png" alt="" class="arrow_1">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 text-center d-none d-lg-block">
-                            <img src="img/about_1.svg" alt="" class="img-fluid" width="250" height="250">
-                    </div>
-                </div>
-                <!-- /row -->
-                <div class="row justify-content-center align-items-center add_bottom_15">
-                    <div class="col-lg-6 text-center d-none d-lg-block">
-                            <img src="img/about_2.svg" alt="" class="img-fluid" width="250" height="250">
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="box_about">
-                            <h3>Manage Easly</h3>
-                            <p class="lead">Est falli invenire interpretaris id, magna libris sensibus mel id.</p>
-                            <p>Per eu nostrud feugiat. Et quo molestiae persecuti neglegentur. At zril definitionem mei, vel ei choro volumus. An tota nulla soluta has, ei nec essent audiam, te nisl dignissim vel. Ex velit audire perfecto pro, ei mei doming vivendo legendos. Cu sit magna zril, an odio delectus constituto vis. Vis ludus omnesque ne, est veri quaeque ad.</p>
-                            <img src="img/arrow_about.png" alt="" class="arrow_2">
-                        </div>
-                    </div>
-                </div>
-                <!-- /row -->
-                <div class="row justify-content-center align-items-center">
-                    <div class="col-lg-6">
-                        <div class="box_about">
-                            <h3>Reach New Customers</h3>
-                            <p class="lead">Est falli invenire interpretaris id, magna libris sensibus mel id.</p>
-                            <p>Per eu nostrud feugiat. Et quo molestiae persecuti neglegentur. At zril definitionem mei, vel ei choro volumus. An tota nulla soluta has, ei nec essent audiam, te nisl dignissim vel. Ex velit audire perfecto pro, ei mei doming vivendo legendos. Cu sit magna zril, an odio delectus constituto vis. Vis ludus omnesque ne, est veri quaeque ad.</p>
-                        </div>
-
-                    </div>
-                    <div class="col-lg-6 text-center d-none d-lg-block">
-                            <img src="img/about_3.svg" alt="" class="img-fluid" width="250" height="250">
-                    </div>
-                </div>
-                <!-- /row -->
-            </div>
-        </div>
         <!-- /container -->
-
-        <!-- /container -->
-        <div class="container margin_60_40" id="submit">
+        <div class="container margin_30_40" id="submit">
 
 			<div class="row justify-content-center">
 				<div class="col-lg-7 col-md-8">
 					<div class="text-center add_bottom_15">
-                        <h4>Please fill the form below</h4>
-                        <p>Id persius indoctum sed, audiam verear his in, te eum quot comprehensam. Sed impetus vocibus repudiare et.</p>
+                        <h4>Place your order below</h4>
+                        <p>Order food, snacks, groceries, vegetable, fruits, chicken/fish any your need at your doorstep</p>
                     </div>
 
 					<div id="wizard_container">
@@ -242,6 +188,62 @@
 			<!-- /row -->	
 		</div>
 		<!-- /container -->
+
+		<!-- /hero_single -->
+        <div class="bg_gray">
+            <div class="container margin_30_20 bg_gray">			
+            <div class="main_title center">
+                <span><em></em></span>
+                <h2>Why Submit to Call4need</h2>
+                <p>How learned citizens can be empowered.</p>
+            </div>
+
+            <div class="row justify-content-center align-items-center add_bottom_15">
+                    <div class="col-lg-6">
+                        <div class="box_about">
+                            <h3>Boost your Bookings</h3>
+                            <p class="lead">Est falli invenire interpretaris id, magna libris sensibus mel id.</p>
+                            <p>Per eu nostrud feugiat. Et quo molestiae persecuti neglegentur. At zril definitionem mei, vel ei choro volumus. An tota nulla soluta has, ei nec essent audiam, te nisl dignissim vel. Ex velit audire perfecto pro, ei mei doming vivendo legendos. Cu sit magna zril, an odio delectus constituto vis. Vis ludus omnesque ne, est veri quaeque ad.</p>
+                            <img src="img/arrow_about.png" alt="" class="arrow_1">
+                        </div>
+                    </div>
+                    <div class="col-lg-6 text-center d-none d-lg-block">
+                            <img src="img/about_1.svg" alt="" class="img-fluid" width="250" height="250">
+                    </div>
+                </div>
+                <!-- /row -->
+                <div class="row justify-content-center align-items-center add_bottom_15">
+                    <div class="col-lg-6 text-center d-none d-lg-block">
+                            <img src="img/about_2.svg" alt="" class="img-fluid" width="250" height="250">
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="box_about">
+                            <h3>Manage Easly</h3>
+                            <p class="lead">Est falli invenire interpretaris id, magna libris sensibus mel id.</p>
+                            <p>Per eu nostrud feugiat. Et quo molestiae persecuti neglegentur. At zril definitionem mei, vel ei choro volumus. An tota nulla soluta has, ei nec essent audiam, te nisl dignissim vel. Ex velit audire perfecto pro, ei mei doming vivendo legendos. Cu sit magna zril, an odio delectus constituto vis. Vis ludus omnesque ne, est veri quaeque ad.</p>
+                            <img src="img/arrow_about.png" alt="" class="arrow_2">
+                        </div>
+                    </div>
+                </div>
+                <!-- /row -->
+                <div class="row justify-content-center align-items-center">
+                    <div class="col-lg-6">
+                        <div class="box_about">
+                            <h3>Reach New Customers</h3>
+                            <p class="lead">Est falli invenire interpretaris id, magna libris sensibus mel id.</p>
+                            <p>Per eu nostrud feugiat. Et quo molestiae persecuti neglegentur. At zril definitionem mei, vel ei choro volumus. An tota nulla soluta has, ei nec essent audiam, te nisl dignissim vel. Ex velit audire perfecto pro, ei mei doming vivendo legendos. Cu sit magna zril, an odio delectus constituto vis. Vis ludus omnesque ne, est veri quaeque ad.</p>
+                        </div>
+
+                    </div>
+                    <div class="col-lg-6 text-center d-none d-lg-block">
+                            <img src="img/about_3.svg" alt="" class="img-fluid" width="250" height="250">
+                    </div>
+                </div>
+                <!-- /row -->
+            </div>
+        </div>
+        <!-- /container -->
+
 	</main>
 	<!-- /main -->
 
